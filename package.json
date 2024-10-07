@@ -4,12 +4,12 @@
   "description": "Group project for COMP3104 DevOps",
   "main": "index.js",
   "scripts": {
-    "test": "jest tests/tests.js"
+    "test": "jest tests/tests.test.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "jest": "^29.7.0"
   }
 }
