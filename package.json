@@ -1,0 +1,12 @@
+{
+  "name": "comp3104_group28_assignment",
+  "version": "1.0.0",
+  "description": "Group project for COMP3104 DevOps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
