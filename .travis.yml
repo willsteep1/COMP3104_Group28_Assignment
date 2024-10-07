@@ -10,4 +10,7 @@ deploy:
   github_token: $github_token
   local_dir: build
   on:
-    branch: main
+    branches:
+      only:
+        - main
+        - 101435500-WillSteep
