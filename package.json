@@ -4,7 +4,7 @@
   "description": "Group project for COMP3104 DevOps",
   "main": "index.js",
   "scripts": {
-    "test": "jest tests/tests.test.js"
+    "test": "echo \"Running tests.....\" && jest tests/tests.test.js"
   },
   "keywords": [],
   "author": "",
