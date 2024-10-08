@@ -1,0 +1,6 @@
+Hello Khoa Huynh
+this is khoa Huynh 101418497 Devop
+
+const output = () => {
+    console.log("Hello, World!");
+}
