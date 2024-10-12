@@ -1,0 +1,1 @@
+DevOps integrates development and operations to enhance collabiration and automation across the Software Development Lifecycle (SDLC). Why it matters: -Faster Delivery, -Improved Collaboration, -Higher Quality, -Efficiency, -Security
