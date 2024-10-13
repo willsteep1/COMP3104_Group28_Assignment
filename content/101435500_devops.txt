@@ -1,0 +1,2 @@
+The COMP3104 course at George Brown College is part of the Computer Systems Technology program, focusing on DevOps practices for system administration. 
+This course aims to equip students with the necessary skills to automate the software delivery process and manage IT infrastructure efficiently.
